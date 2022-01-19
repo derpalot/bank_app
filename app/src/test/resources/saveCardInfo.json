@@ -1,0 +1,25 @@
+[
+    {"cardNumber": "12345",
+    "pinNumber": "1234",
+    "lostOrStolen": false,
+    "blocked": false,
+    "fundsAvailable": 1000.00,
+    "startDate": "2019-01-01",
+    "expiryDate": "2022-01-01" },
+
+    {"cardNumber": "19876",
+    "pinNumber": "6789",
+    "lostOrStolen": false,
+    "blocked": false,
+    "fundsAvailable": 558.15,
+    "startDate": "2013-04-04",
+    "expiryDate": "2016-02-02" },
+
+    {"cardNumber": "35981",
+    "pinNumber": "9314",
+    "lostOrStolen": true,
+    "blocked": true,
+    "fundsAvailable": 17.50,
+    "startDate": "2019-07-07",
+    "expiryDate": "2022-01-01" }
+]
